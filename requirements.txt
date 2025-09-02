@@ -1,0 +1,10 @@
+pandas
+numpy
+spacy
+nltk
+scikit-learn
+transformers
+torch
+PyPDF2
+docx2txt
+streamlit

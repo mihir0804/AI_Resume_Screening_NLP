@@ -1,0 +1,31 @@
+Sample Job Description – Data Scientist
+Job Title: Data Scientist – Customer Analytics
+Location: Bangalore, India (Hybrid)
+About the Role:
+We are seeking a highly motivated Data Scientist to join our analytics team. The ideal candidate will leverage machine learning, statistical modeling, and business acumen to solve real-world problems such as customer churn prediction, personalization, and recommendation systems.
+
+Key Responsibilities
+Collect, clean, and analyze structured and unstructured datasets (SQL, Python).
+
+Develop and deploy ML models (classification, regression, clustering, NLP).
+
+Perform exploratory data analysis (EDA) and generate actionable business insights.
+
+Build predictive models for customer churn, segmentation, and lifetime value (CLV).
+
+Work with cross-functional teams (product, marketing, engineering) to deliver data-driven solutions.
+
+Communicate findings through dashboards, reports, and visualizations (Tableau, Power BI).
+
+Required Skills & Qualifications
+Bachelor’s/Master’s in Computer Science, Data Science, Statistics, or related field.
+
+Proficiency in Python (Pandas, NumPy, Scikit-learn, TensorFlow/PyTorch).
+
+Experience with SQL and data querying.
+
+Strong understanding of machine learning algorithms (Logistic Regression, Random Forest, XGBoost, Clustering, NLP).
+
+Knowledge of cloud platforms (AWS, GCP, or Azure) is a plus.
+
+Excellent problem-solving, communication, and presentation skills.
